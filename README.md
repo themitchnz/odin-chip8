@@ -8,3 +8,4 @@ Chip-8 Emulator built using Odin + Raylib
 + [Mastering Chip-8](http://mattmik.com/files/chip8/mastering/chip8.html)
 + [High level guide to Chip-8](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
 + [Building a Chip-8 Emulator in C++](https://austinmorlan.com/posts/chip8_emulator/)
++ [Chip-8 Test Suite](https://github.com/Timendus/chip8-test-suite)
